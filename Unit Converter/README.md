@@ -36,7 +36,7 @@ Unit Converter/assests/3.png
 
 
 ## ✍ Author
-<a href="https://github.com/saivardhanr">Sai vardhan</a>
+<a href="https://github.com/karan9639">Karan Singh</a>
 
 
 
@@ -47,11 +47,6 @@ Unit Converter/assests/3.png
 
 
 
-## 🛡 License
-
-You may use this project freely at your own risk. See [LICENSE](https://choosealicense.com/licenses/mit/).
-
-    Copyright (c) 2023 Sai Vardhan
 
 
 
